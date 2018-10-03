@@ -4,8 +4,9 @@ This repository holds graphics resources for the Software Tools for Mathematics 
 
 ## Colour Scheme Overview
 
-Primary colour: `#6e6fb4` (purple).
-Secondary colour: `#f05f40` (orange).
+- Primary colour: `#6e6fb4` (purple).
+- Secondary colour: `#f05f40` (orange).
+
 For complements and more colour codes see colour-scheme.html
 
 ## Typography
