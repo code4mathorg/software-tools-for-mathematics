@@ -2,7 +2,6 @@
 
 This repository holds graphics resources for the Software Tools for Mathematics workshop series.
 
-
 ## Colour Scheme Overview
 
 - Primary colour: `#6e6fb4` (purple).
