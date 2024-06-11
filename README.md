@@ -84,7 +84,7 @@ Coppelia Cerda is the author of the original graphics resources for the Software
 - Primary colour: `#6e6fb4` (purple).
 - Secondary colour: `#f05f40` (orange).
 
-For complements and more colour codes see colour-scheme.html
+For complements and more colour codes see `colour-scheme.html` ([preview](https://html-preview.github.io/?url=https://github.com/code4mathorg/software-tools-for-mathematics/blob/master/colour-scheme.html)).
 
 ### Typography
 
